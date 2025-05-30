@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Food Blog</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Food Blog</h1>
+    </header>
+    <main>
+        <section>
+            <h2>About My Blog</h2>
+            <p>Discover my favorite recipes and cooking tips!</p>
+            
+            <!-- Danh sách với 3 mục -->
+            <h3>Favorite Dishes</h3>
+            <ul>
+                <li>Pizza Margherita</li>
+                <li>Beef Pho</li>
+                <li>Chocolate Lava Cake</li>
+            </ul>
+        </section>
+
+        <!-- Hình ảnh với alt mô tả -->
+        <section>
+            <h2>Food Gallery</h2>
+            <img src="https://picsum.photos/200/300?random=7" alt="A freshly baked pizza with tomatoes">
+            <img src="https://picsum.photos/200/300?random=8" alt="A bowl of beef pho with herbs">
+            <img src="https://picsum.photos/200/300?random=9" alt="A chocolate lava cake with melted center">
+        </section>
+
+        <!-- Liên kết bên ngoài -->
+        <section>
+            <h2>Explore More</h2>
+            <p>Visit <a href="https://www.allrecipes.com">AllRecipes</a> for more cooking ideas.</p>
+        </section>
+    </main>
+    <footer>
+        <p>© 2025 My Food Blog</p>
+        <p>Created by tranbichtram252</p>
+    </footer>
+</body>
+</html>
